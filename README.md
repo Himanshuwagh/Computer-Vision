@@ -7,7 +7,7 @@
    FaceNet is a face recognition system developed in 2015 by researchers at Google that achieved then state-of-the-art results on a range of face recognition benchmark datasets.      The FaceNet system can be used broadly thanks to multiple third-party open source implementations of the model and the availability of pre-trained models.
    
 
-### 1. Face-Swap using open-cv
+### 2. Face-Swap using open-cv
      
    Face swap refers to an activity in which a person’s face is swapped with the face of another person or animal or with an inanimate object, most often using an app or app filter developed for the purpose.
      
@@ -16,4 +16,11 @@
 
 
    Instances of face swaps have reached memetic status, particularly unusual or strange ones.
+   
+ ### 3. Tessearct - OCR
+   Tesseract is an optical character recognition engine for various operating systems. It is free software, released under the Apache License. 
+   
+  <a href="https://tesseract-ocr.github.io/" target="blank"><img align="center" src="https://www.pyimagesearch.com/wp-content/uploads/2020/09/ocr_document_header.png" alt="@waghhimanshu" height="300" width="550" /></a>
+
+   Originally developed by Hewlett-Packard as proprietary software in the 1980s, it was released as open source in 2005 and development has been sponsored by Google since 2006.
     
